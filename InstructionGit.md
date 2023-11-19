@@ -58,3 +58,6 @@ git branch
 git branch <имя_ветки>
 ```
 
+git branch -d <имя_ветки>
+
+git log graph
