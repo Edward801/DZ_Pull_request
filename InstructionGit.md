@@ -87,4 +87,7 @@ git pull
 ```sh
 git push --set-upstream origin newbranch1
 ```
- 
+Команда удаления удаленной ветки через консоль
+```sh
+git push origin --delete <имя ветки>
+```
