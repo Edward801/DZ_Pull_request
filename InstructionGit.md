@@ -78,4 +78,8 @@ echo "# my_first_repoz" >> README.md
 ```sh
 git push -u origin main
 ```
+Команда запроса изменений из удаленного сервера
+```sh
+git pull
+```
 
