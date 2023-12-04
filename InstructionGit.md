@@ -83,3 +83,8 @@ git push -u origin main
 git pull
 ```
 
+Команда добавления новой ветки на удаленный сервер
+```sh
+git push --set-upstream origin newbranch1
+```
+ 
